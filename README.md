@@ -10,7 +10,7 @@
 Three taggers for **named entity recognition (NER)** on the same data, built from scratch and compared:
 
 1. **HMM**: a Hidden Markov Model that learns by counting.
-2. **BiLSTM-CRF**: a neural tagger (a reproduction of Lample et al., 2016).
+2. **BiLSTM-CRF**: a neural tagger.
 3. **Neural-emission HMM**: the HMM's structure with the neural network's scores plugged in.
 
 ```
