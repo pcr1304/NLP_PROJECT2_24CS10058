@@ -2,8 +2,8 @@
 # Statistical vs. Neural Sequence Labeling on CoNLL-2003
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-neural%20models-orange)
-![Task](https://img.shields.io/badge/task-named%20entity%20recognition-green)
+![PyTorch](https://img.shields.io/badge/PyTorch-neural%20models-blue)
+![Task](https://img.shields.io/badge/task-named%20entity%20recognition-blue)
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/pcr1304/NLP_PROJECT2_24CS10058/blob/main/Project.ipynb)
 
