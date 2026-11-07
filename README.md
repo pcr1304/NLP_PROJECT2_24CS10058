@@ -1,4 +1,4 @@
-# NLP_PROJECT2_24CS10058
+# NLP_PROJECT2_Group6
 # Statistical vs. Neural Sequence Labeling on CoNLL-2003
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
