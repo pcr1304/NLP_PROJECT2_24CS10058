@@ -50,8 +50,6 @@ The BiLSTM-CRF result is close to the roughly 90.9 F1 reported in the original p
 - **The hybrid recovers most of the gap.** It goes from 0.733 to 0.895 by replacing only the emission scores, but it does not beat the CRF. The BiLSTM already reads the whole sentence, so the HMM's counted transitions add little.
 - **MISC is the hardest type** for every model, because it covers a mixed set of names.
 
-> **Caveat:** each number comes from one run (seed 7). Small differences, such as hybrid vs. softmax (0.0004 apart, about 2 names out of 5,648), are within noise. Only the large gaps are safe conclusions.
-
 ---
 
 ## How it works
